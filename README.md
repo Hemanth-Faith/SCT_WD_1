@@ -19,11 +19,6 @@ Foreground server (keeps terminal attached; stop with Ctrl+C):
 python -m http.server 5500
 ```
 
-Open the site in your browser at:
-
-```
-http://127.0.0.1:5500
-```
 
 Start server in background (PowerShell):
 
